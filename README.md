@@ -18,7 +18,7 @@ TECHNOLOGY USED:
 
 COMMENTS:
 
-If I had more time I would
+If I had more time I would:
 
 - display the course info
 - display the total price based on the user's geolocalisation
