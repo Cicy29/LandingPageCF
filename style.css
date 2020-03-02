@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 100vh;
+  background: #5ca2b2;
+}
+
+header img {
+  background-image: cover;
+  opacity: 0.7;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-style {
+  min-height: 5vh;
+  /* box-shadow: 0 5px 20px #efeefe; */
+  background-color: #223c50;
+}
+
+.logo {
+  color: white;
+  height: 48px;
+  padding: 5px 10px;
+}
+
+.icon-bar {
+  background: white;
+}
+
+.navbar-right {
+  position: relative;
+  left: 500px;
+  top: 4px;
+}
+
+li a {
+  color: white;
+}
