@@ -22,6 +22,4 @@ If I had more time I would
 
 - display the course info
 - display the total price based on the user's geolocalisation
--
-
-I would also work on the dropdown menu
+- work on the dropdown menu
