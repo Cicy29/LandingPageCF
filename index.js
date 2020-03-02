@@ -1,6 +1,4 @@
-// const getCourse = () => {
 // CORS error : I do not have access to CF API. I choose a local Json file instead
-// const response = null;
 
 document
   .getElementsByClassName("dropdown-item")[0]
@@ -13,7 +11,7 @@ document
   .addEventListener("click", function(r) {
     getThisCourse(document.getElementsByClassName("dropdown-item")[1].value);
   });
-{
+
   fetch("courses.json")
     .then(function(r) {
       return r.json();
