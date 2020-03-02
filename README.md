@@ -8,7 +8,7 @@ The motivation behind this project comes from a CareerFoundry challenge.
 
 What can a user do?
 
--can select a course
+-select a course
 
 TECHNOLOGY USED:
 
@@ -18,6 +18,10 @@ TECHNOLOGY USED:
 
 COMMENTS:
 
-If I had more time I would be displaying the total price based on the user's geolocalisation.
+If I had more time I would
+
+- display the course info
+- display the total price based on the user's geolocalisation
+-
 
 I would also work on the dropdown menu
