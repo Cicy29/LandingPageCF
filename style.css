@@ -19,7 +19,6 @@ header img {
 
 .navbar-style {
   min-height: 5vh;
-  /* box-shadow: 0 5px 20px #efeefe; */
   background-color: #223c50;
 }
 
@@ -41,4 +40,12 @@ header img {
 
 li a {
   color: white;
+}
+
+.dropdown-menu {
+  background-color: white;
+}
+.dropdown-item {
+  font-size: 14px;
+  color: #223c50;
 }

@@ -9,5 +9,5 @@ fetch("courses.json")
     console.log(j);
   })
   .catch(() => {
-    console.log("test error");
+    console.log("error");
   });
